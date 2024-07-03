@@ -22,6 +22,8 @@ app = Dash(
     use_pages=True,
 )
 
+server = app.server
+
 app.layout = html.Div(
     children=[
         NAVBAR,
