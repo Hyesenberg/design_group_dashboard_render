@@ -10,3 +10,4 @@ sqlalchemy==2.0.31
 connectorx==0.3.3
 schedule==1.2.1
 dash_bootstrap_templates==1.2.0
+gunicorn
